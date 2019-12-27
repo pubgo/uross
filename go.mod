@@ -21,7 +21,7 @@ require (
 	github.com/lib/pq v1.3.0 // indirect
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/nats-io/nats-server/v2 v2.1.2
-	github.com/pubgo/g v0.2.30
+	github.com/pubgo/g v0.2.31
 	github.com/rs/cors v1.7.0
 	github.com/segmentio/ksuid v1.0.2
 	github.com/spaceuptech/space-cloud v0.14.0
